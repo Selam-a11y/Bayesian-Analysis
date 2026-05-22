@@ -119,6 +119,3 @@ The script runs sequentially:
 
 ---
 
-## License
-
-MIT
